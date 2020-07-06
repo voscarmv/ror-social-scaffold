@@ -14,10 +14,6 @@
 - Ruby v2.7.0
 - Ruby on Rails v5.2.4
 
-
-## Live Version 
-  [Social media app](https://shielded-journey-73134.herokuapp.com)
-
 ## Author
 
 **Oscar Mier**
