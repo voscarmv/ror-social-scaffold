@@ -2,6 +2,8 @@
 
 > This is the final project of the Ruby on Rails section from the Microverse curriculum which mimics basic functionallity of a social media app, like:
 
+![image](https://user-images.githubusercontent.com/2739245/90671435-55849200-e21a-11ea-8e04-e951dcf46be1.png)
+
 - You can create an account
 - You can send and receivefriendship requests to and fromother users
 - You can create posts
